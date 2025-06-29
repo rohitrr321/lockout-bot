@@ -1,6 +1,6 @@
 # Codeforces Lockout
 
-[Open Web App](https://cf-app-aojsxgr85pa4btudmawxvc.streamlit.app/)
+[Open Web App]()
 
 ## Overview
 
